@@ -1,6 +1,6 @@
 # 
 How to use this vagrant box
-This vagrantfile downloads the Centos 6.3 preconfigured with the following softwares
+- This vagrantfile downloads the Centos 6.3 preconfigured with the following softwares
 - Jenkins 1.636
 - Ant 1.9.6
 - Maven 3.3.3
@@ -23,9 +23,9 @@ Copy this vagrantFile to your local machine
 -  Url's :
 
 - Jenkins -> http://localhost:8080/jenkins
-
 - Artifactory -> http://localhost:8081/artifactory
-- 
+
+
 - Credentials : 
 - User / pass : vagrant / vagrant
 - User / pass : root : root / vagrant 
