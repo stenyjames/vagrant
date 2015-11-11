@@ -23,7 +23,12 @@ Copy this vagrantFile to your local machine
 -  Url's :
 
 - Jenkins -> http://localhost:8080/jenkins
+
 - Artifactory -> http://localhost:8081/artifactory
-- Credentials : vagrant / vagrant root : root / vagrant devops : devops / devops
+- 
+- Credentials : 
+- User / pass : vagrant / vagrant
+- User / pass : root : root / vagrant 
+- User / pass : devops : devops / devops
 
 - Jenkins Login credentials devops / devops
